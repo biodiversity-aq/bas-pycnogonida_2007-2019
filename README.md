@@ -1,6 +1,17 @@
-# Pycnogonida
+# bas-pycnogonida_2007-2019
 
-This repository contains short code and documentation to retrieve BOLD specimen image links for occurrence records of pycnogonida dataset.
+This repository contains short code and documentation to retrieve BOLD specimen image links for occurrence records of bas-pycnogonida_2007-2019 dataset.
+
+## Dataset
+
+Full version of dataset is published in the portals below. BOLD records are linked in `associatedOccurrence` field.
+
+portal | link
+:-- | :--
+IPT | https://ipt.biodiversity.aq/resource?r=bas-pycnogonida_2007-2019
+GBIF | https://www.gbif.org/dataset/1e7b6980-0842-4c4a-8b14-541b95d2ed3c
+OBIS | https://obis.org/dataset/5080b123-3bcf-4be9-85cd-39eb81940fb1
+
 
 ## Repo structure
 
